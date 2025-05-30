@@ -10,5 +10,4 @@ I'm Savelii — a network sorcerer & microcontroller tamer ⚡
 🐧 Arch Linux appreciator • Loves blinking LEDs with purpose 💡  
 
 ✨ Taming electrons one bit at a time ⚙️  
-🔌 Current project: Arduino Nano-based racing bot 🏎️
 ![kyubey](https://github.com/user-attachments/assets/d5673299-8fbb-4a71-ba9c-585773214f2f)
